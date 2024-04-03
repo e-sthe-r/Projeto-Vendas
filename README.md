@@ -14,7 +14,6 @@ Etapas do Projeto:
 1. Trazer a base de dados para o Python:
 
 A base de dados "Vendas.xlsx" é carregada no Python usando a biblioteca Pandas.
-A estrutura da base de dados é explorada e visualizada.
 
 2. Panorama geral da base de dados:
 
@@ -29,8 +28,8 @@ A loja Iguatemi Campinas se destaca com o maior faturamento (R$ 41.720), seguida
 4. Análise Detalhada:
 
 O faturamento é agrupado por loja e produto para identificar os produtos mais vendidos em cada loja.
-A "Bermuda Liso" no Iguatemi Campinas se destaca com um faturamento de R$ 36.581, representando 65% do faturamento total da loja e 65% do faturamento total de todas as lojas juntas.
-As outras bermudas apresentam um faturamento médio inferior, com destaque para a "Bermuda Xadrez" no Iguatemi Campinas (R$ 620) e no Norte Shopping (R$ 1.085).
+A "Bermuda Liso" no Iguatemi Campinas se destaca com um faturamento de R$ 36.581, 65% do faturamento total de todas as lojas juntas.
+
 Observações:
 
 O sucesso da "Bermuda Liso" no Iguatemi Campinas precisa ser investigado para entender seus motivos.
